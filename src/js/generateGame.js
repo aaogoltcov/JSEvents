@@ -1,6 +1,6 @@
 'use strict';
 
-export default class generateGame {
+export default class GenerateGame {
   constructor(goblin, boardGame) {
     this.goblin = goblin;
     this.boardGame = boardGame;

@@ -1,6 +1,6 @@
 'use strict';
 
-export default class gameUI {
+export default class GameUI {
   constructor(gameContainer) {
     this.gameBoardSize = 4;
     this.gameContainer = gameContainer;

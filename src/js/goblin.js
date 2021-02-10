@@ -1,6 +1,6 @@
 'use strict';
 
-export default class goblin {
+export default class Goblin {
   constructor(gameBoardSize) {
     this.gameBoardSize = gameBoardSize;
     this.previousCellElement = Number();
